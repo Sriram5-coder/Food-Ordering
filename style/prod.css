@@ -1,0 +1,55 @@
+.hero{
+	height: 300px;
+}
+.bubu button{
+	margin-top: 50px;
+	border: 2px solid green;
+	border-radius: 0;
+	background-color: white;
+	padding: 10px;
+}
+.bubu button:hover{
+	background-color: green;
+	color: white;
+	transition: 0.3s;
+}
+.prp{
+	float: left;
+}
+
+.prp .rpr p
+{
+	text-align: center;
+	justify-content: center;
+	margin-left: 10px;
+}
+.bbcc button{
+	background-color: transparent;
+}
+.bbcc{
+	box-shadow: 2px 2px 2px 1px black;
+}
+.bgbgg{
+	padding-bottom:50px ;
+}
+.adad{
+	display: none;
+}
+.dada{
+	display: none;
+}
+/*.nknk{
+	display: block;
+}*/
+.pqpq button{
+	width: 200px;
+	height: 50px;
+	background-color: green;
+	color: white;
+	border: 50%;
+}
+
+.car1 {
+	background-color: green;
+	border: 1px solid green;
+}
